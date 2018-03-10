@@ -1,9 +1,10 @@
 ---
 layout: post
-title: 깃허브 지킬 블로그 시작하기
+title: 첫글 시작하기.
 published: true
 ---
 
+## 한글은 이렇게 나온다
 
 **So this is bold right?** 
 
