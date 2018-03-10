@@ -14,6 +14,6 @@ So I guess only configs don't work?
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![this is my profile.]({{ site.baseurl }}/images/profile-hyoshin.jpg)
 
 Wow, this is actually pretty cool. Is this actually going to work well?
