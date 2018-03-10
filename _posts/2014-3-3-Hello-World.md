@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Starting with Github
+title: 깃허브 지킬 블로그 시작하기
 published: true
 ---
 
-##This is actually pretty obvious to me as I am quite able to understand markdown texts.
+## 한글은 이렇게 나온다
 
 **So this is bold right?** 
 
