@@ -4,13 +4,9 @@ title: 첫글 시작하기.
 published: true
 ---
 
-## 한글은 이렇게 나온다
+## 테스트중
 
-**So this is bold right?** 
-
-Okay.... I love this Prose.... this works really well I think.
-
-So I guess only configs don't work?
+테스트 글입니다.
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
